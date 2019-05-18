@@ -13,14 +13,14 @@ This project contains projects for the ***[Data Scientist Nanodegree Program](ht
 
 ### Term 1: MACHINE LEARNING FOR DATA SCIENTISTS
 
-* **Supervised Learning:** [Project: Finding Donors for CharityML](./Project_Finding_Donor_For_CharityML)
-* **Deep Learning:** [Project: Create Your Own Image Classifier](./Project_CreateYourOwnImageClassifier)
-* **Unsupervised Learning:** [Project: Identify Customer Segments with Arvato](./Project_IdentifyCustomerSegmentWithArvato)
+* **Supervised Learning:** [Project: Finding Donors for CharityML](./Project_Finding_Donor_For_CharityML/finding_donors.ipynb)
+* **Deep Learning:** [Project: Create Your Own Image Classifier](./Project_CreateYourOwnImageClassifier/Image_Classifier_Project.ipynb)
+* **Unsupervised Learning:** [Project: Identify Customer Segments with Arvato](./Project_IdentifyCustomerSegmentWithArvato/Identify_Customer_Segments.ipynb)
 
 ### Term 2: APPLIED DATA SCIENCE
 * **Solving Problems with Data Science:** [Project: Write a Data Science Blog Post](https://github.com/nongnoochr/airbnb_boston_2018_analysis)*
 * **Software Engineering and Data Engineering for Data Scientists:** [Project: Build Pipelines to Classify Messages with Figure Eight](https://github.com/nongnoochr/diaster-response-app)*
-* **Design a Recommendation Engine:** [Project: Design a Recommendation Engine with IBM](./Project_RecommendationSystem)
+* **Design a Recommendation Engine:** [Project: Design a Recommendation Engine with IBM](./Project_RecommendationSystem/Recommendations_with_IBM.ipynb)
 * **Data Science Capstone Project - Spark** [Project: Using Spark to Predict Churn with Insight Data Science](https://github.com/nongnoochr/udacity_dsnd_capstone_sparkify)*
 
 *( * ) This project is hosted in another github project*
@@ -58,7 +58,7 @@ Youâ€™ll master the skills necessary to become a successful Data Scientist. Youâ
 
 #### Supervised Learning
 
-[Project: Finding Donors for CharityML](./Project_Finding_Donor_For_CharityML)
+[Project: Finding Donors for CharityML](./Project_Finding_Donor_For_CharityML/finding_donors.ipynb)
 
 **Project Overview (From Udacity)**
 
@@ -82,11 +82,9 @@ marketing constraints.
 * Tuning models according to constraints
 
 
-
-
 #### Deep Learning
 
-[Project: Create Your Own Image Classifier](./Project_CreateYourOwnImageClassifier)
+[Project: Create Your Own Image Classifier](./Project_CreateYourOwnImageClassifier/Image_Classifier_Project.ipynb)
 
 **Project Overview (From Udacity)**
 
@@ -106,7 +104,7 @@ will develop your code in a Jupyter notebook to ensure your implementation works
 
 #### Unsupervised Learning
 
-[Project: Identify Customer Segments with Arvato](./Project_IdentifyCustomerSegmentWithArvato)
+[Project: Identify Customer Segments with Arvato](./Project_IdentifyCustomerSegmentWithArvato/Identify_Customer_Segments.ipynb)
 
 
 **Project Overview (From Udacity)**
@@ -160,8 +158,7 @@ emergency text messages based on the need communicated by the sender.
 
 #### Design a Recommendation Engine 
 
-[Project: Design a Recommendation Engine with IBM](./Project_RecommendationSystem)
-
+[Project: Design a Recommendation Engine with IBM](./Project_RecommendationSystem/Recommendations_with_IBM.ipynb)
 
 **Project Description (FromUdacity)**
 
