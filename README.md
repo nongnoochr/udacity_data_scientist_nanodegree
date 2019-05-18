@@ -1,26 +1,59 @@
 This project contains projects that I worked on to complete the ***[Data Scientist Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025)*** 
 
+**Key Skills:** Python, scikit-learn, PyTorch, SQL, Flask,Spark
+
 ### Table of Contents
 
-1. [Installation](#installation)
-2. [Project Motivation](#motivation)
-3. [Files Description](#files)
-4. [Results](#results)
+1. [Project List](#projectlists)
+2. [Nanodegree Details](#nddetails)
+3. [Project Descriptions](#projectdescriptions)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
-##  Installation<a name="installation"></a>
-TBD
+##  Project List<a name="projectlists"></a>
 
-## Project Motivation<a name="motivation"></a>
-TBD
+### Term 1: MACHINE LEARNING FOR DATA SCIENTISTS
 
-## Files Description<a name="files"></a>
+* **Supervised Learning:** [Project: Finding Donors for CharityML](./Project_Finding_Donor_For_CharityML)
+* **Deep Learning:** [Project: Create Your Own Image Classifier](./Project_CreateYourOwnImageClassifier)
+* **Unsupervised Learning:** [Project: Identify Customer Segments with Arvato](./Project_IdentifyCustomerSegmentWithArvato)
 
-### Term 1:
+### Term 2: APPLIED DATA SCIENCE
+* **Solving Problems with Data Science:** [Project: Write a Data Science Blog Post](https://github.com/nongnoochr/airbnb_boston_2018_analysis)*
+* **Software Engineering and Data Engineering for Data Scientists:** [Project: Build Pipelines to Classify Messages with Figure Eight](https://github.com/nongnoochr/diaster-response-app)*
+* **Design a Recommendation Engine:** [Project: Design a Recommendation Engine with IBM](./Project_RecommendationSystem)
+* **Data Science Capstone Project - Spark** [Project: Using Spark to Predict Churn with Insight Data Science](https://github.com/nongnoochr/udacity_dsnd_capstone_sparkify)*
+
+*( * ) This project is hosted in another github project*
+
+## Nanodegree Details<a name="nddetails"></a>
+
+### My enrollment period
+Term1: MACHINE LEARNING FOR DATA SCIENTISTS
+Term2: APPLIED DATA SCIENCE
+
+### Program Overview (From Udacity)
+The data science field is expected to continue growing rapidly over the next several years, and there’s huge demand for data scientists across industries. Data scientist is consistently rated as a top career.
+
+Udacity has collaborated with industry leaders to offer a world-class learning experience so you can advance your data science career. You’ll get hands-on experience running data pipelines, designing experiments, building recommendation systems, and more. You’ll have personalized support as you master in-demand skills that qualify you for high-value jobs in the data science field.
+
+By the end of the program, you’ll have an impressive portfolio of real-world projects, and valuable hands-on experience. You’ll also receive career support via profile and portfolios reviews to help make sure you’re ready to establish a successful data science career, and land a job you love.
+
+This Nanodegree program consists of 2 terms:
+#### Term 1: MACHINE LEARNING FOR DATA SCIENTISTS
+
+Learn foundational machine learning algorithms, starting with data cleaning and supervised models. Then, move on to deep and unsupervised learning. Get practical experience by applying your skills to code exercises and projects. 
+
+#### Term 2: APPLIED DATA SCIENCE
+
+You’ll master the skills necessary to become a successful Data Scientist. You’ll work on projects designed by industry experts, and learn to run data pipelines, design experiments, build recommendation systems, and deploy solutions to the cloud.
+
+## Project Descriptions<a name="projectdescriptions"></a>
+
+### Term 1: MACHINE LEARNING FOR DATA SCIENTISTS
 
 #### Supervised Learning
 
-##### Project: Finding Donors for CharityML
+[Project: Finding Donors for CharityML](./Project_Finding_Donor_For_CharityML)
 
 **Project Overview (From Udacity)**
 
@@ -29,6 +62,7 @@ fictitious charity organization) identify groups of people that are most likely 
 cause.
 
 **Project Description (From Udacity)**
+
 CharityML is a fictitious charity organization located in the heart of Silicon Valley that was established to
 provide financial support for people eager to learn machine learning. To expand their potential donor
 base, CharityML has decided to send letters to residents of California, but to only those most likely to
@@ -41,12 +75,12 @@ marketing constraints.
 * Model evaluation and comparison
 * Tuning models according to constraints
 
-[Project1_Finding_Donor_For_CharityML](./Project1_Finding_Donor_For_CharityML)
+
 
 
 #### Deep Learning
 
-##### Project: Create Your Own Image Classifier
+[Project: Create Your Own Image Classifier](./Project_CreateYourOwnImageClassifier)
 
 **Project Overview (From Udacity)**
 
@@ -62,13 +96,13 @@ will develop your code in a Jupyter notebook to ensure your implementation works
 * PyTorch and neural networks
 * Model validation and evaluation
 
-[Project2_CreateYourOwnImageClassifier](./Project2_CreateYourOwnImageClassifier)
+
 
 
 #### Unsupervised Learning
 
+[Project: Identify Customer Segments with Arvato](./Project_IdentifyCustomerSegmentWithArvato)
 
-##### Project: Identify Customer Segments with Arvato
 
 **Project Overview (From Udacity)**
 
@@ -90,14 +124,66 @@ assist the wholesale distributor with future service changes.
 * Dimensionality reduction with PCA
 * Unsupervised clustering
 
-[Project3_IdentifyCustomerSegmentWithArvato](./Project3_IdentifyCustomerSegmentWithArvato)
+
+### Term 2: APPLIED DATA SCIENCE
 
 
-### Term 2:
-TBD
+#### Solving Problems with Data Science
 
-## Results<a name="results"></a> 
-TBD
+[Project: Write a Data Science Blog Post](https://github.com/nongnoochr/airbnb_boston_2018_analysis)*
+
+
+**Project Description**
+In this project, you will choose a dataset, identify three questions, and analyze the data to find answers to
+these questions. You will create a GitHub repository with your project, and write a blog post to communicate
+your findings to the appropriate audience. This project will help you reinforce and extend your knowledge of
+machine learning, data visualization, and communication.
+
+#### Software Engineering and Data Engineering for Data Scientists 
+
+[Project: Build Pipelines to Classify Messages with Figure Eight](https://github.com/nongnoochr/diaster-response-app)*
+
+
+**Project Description**
+Figure Eight (formerly Crowdflower) crowdsourced the tagging and translation of messages to apply artificial
+intelligence to disaster response relief. In this project, you’ll build a data pipeline to prepare the message
+data from major natural disasters around the world. You’ll build a machine learning pipeline to categorize
+emergency text messages based on the need communicated by the sender.
+
+#### Design a Recommendation Engine 
+
+[Project: Design a Recommendation Engine with IBM](./Project_RecommendationSystem)
+
+
+**Project Description**
+IBM has an online data science community where members can post tutorials, notebooks, articles, and
+datasets. In this project, you will build a recommendation engine based on user behavior and social network
+data, to surface content most likely to be relevant to a user. You’ll work with IBM Watson and IBM Cloud to
+build and deploy the recommendation to a front-end application.
+
+#### Data Science Capstone Project - Spark
+
+[Project: Using Spark to Predict Churn with Insight Data Science](https://github.com/nongnoochr/udacity_dsnd_capstone_sparkify)*
+
+#### Spark Project: Sparkify
+
+##### What will I learn?
+You'll learn how to manipulate large and realistic datasets with Spark to engineer relevant features for predicting churn. You'll learn how to use Spark MLlib to build machine learning models with large datasets, far beyond what could be done with non-distributed technologies like scikit-learn.
+
+##### Career Relevance
+Predicting churn rates is a challenging and common problem that data scientists and analysts regularly encounter in any customer-facing business. Additionally, the ability to efficiently manipulate large datasets with Spark is one of the highest-demand skills in the field of data.
+
+##### Essential Skills
+* Load large datasets into Spark and manipulate them using Spark SQL and Spark Dataframes
+* Use the machine learning APIs within Spark ML to build and tune models
+* Integrate the skills you've learned in the Spark course and the Data Scientist Nanodegree program
+
+
+
+
+##### Notes:
+
+*( * ) This project is hosted in another github project*
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
