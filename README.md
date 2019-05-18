@@ -1,4 +1,4 @@
-This project contains projects that I worked on to complete the ***[Data Scientist Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025)*** 
+This project contains projects for the ***[Data Scientist Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025)*** 
 
 **Key Skills:** Python, scikit-learn, PyTorch, SQL, Flask,Spark
 
@@ -64,7 +64,7 @@ Apply supervised learning techniques on data collected for the US census to help
 fictitious charity organization) identify groups of people that are most likely to donate to their
 cause.
 
-**Project Description (From Udacity)**
+**Project Description**
 
 CharityML is a fictitious charity organization located in the heart of Silicon Valley that was established to
 provide financial support for people eager to learn machine learning. To expand their potential donor
@@ -74,6 +74,7 @@ algorithms to determine which algorithm will provide the highest donation yield 
 marketing constraints.
 
 **Key Skills Demonstrated**
+
 * Supervised learning
 * Model evaluation and comparison
 * Tuning models according to constraints
@@ -91,16 +92,15 @@ Define and train a neural network in PyTorch that learns to classify images; goi
 data exploration to network training and evaluation.
 
 **Project Description**
+
 Implementing an image classification application using a deep neural network. This application will train a
 deep learning model on a dataset of images. It will then use the trained model to classify new images. You
 will develop your code in a Jupyter notebook to ensure your implementation works well
 
 **Key Skills Demonstrated**
+
 * PyTorch and neural networks
 * Model validation and evaluation
-
-
-
 
 #### Unsupervised Learning
 
@@ -114,6 +114,7 @@ techniques in order to segment customers into similar groups and extract informa
 may be used for marketing or product improvement.
 
 **Project Description**
+
 In this project, you will apply unsupervised learning techniques on product spending data collected for
 customers of a wholesale distributor in Lisbon, Portugal to identify customer segments hidden in the data.
 You will first explore and pre-process the data by scaling each product category and then identifying (and
@@ -123,6 +124,7 @@ will compare the segmentation found with an additional labeling and consider way
 assist the wholesale distributor with future service changes.
 
 **Key Skills Demonstrated**
+
 * Data cleaning
 * Dimensionality reduction with PCA
 * Unsupervised clustering
@@ -130,13 +132,13 @@ assist the wholesale distributor with future service changes.
 
 ### Term 2: APPLIED DATA SCIENCE
 
-
 #### Solving Problems with Data Science
 
 [Project: Write a Data Science Blog Post](https://github.com/nongnoochr/airbnb_boston_2018_analysis)*
 
 
-**Project Description**
+**Project Description (FromUdacity)**
+
 In this project, you will choose a dataset, identify three questions, and analyze the data to find answers to
 these questions. You will create a GitHub repository with your project, and write a blog post to communicate
 your findings to the appropriate audience. This project will help you reinforce and extend your knowledge of
@@ -147,7 +149,8 @@ machine learning, data visualization, and communication.
 [Project: Build Pipelines to Classify Messages with Figure Eight](https://github.com/nongnoochr/diaster-response-app)*
 
 
-**Project Description**
+**Project Description (FromUdacity)**
+
 Figure Eight (formerly Crowdflower) crowdsourced the tagging and translation of messages to apply artificial
 intelligence to disaster response relief. In this project, you’ll build a data pipeline to prepare the message
 data from major natural disasters around the world. You’ll build a machine learning pipeline to categorize
@@ -158,7 +161,8 @@ emergency text messages based on the need communicated by the sender.
 [Project: Design a Recommendation Engine with IBM](./Project_RecommendationSystem)
 
 
-**Project Description**
+**Project Description (FromUdacity)**
+
 IBM has an online data science community where members can post tutorials, notebooks, articles, and
 datasets. In this project, you will build a recommendation engine based on user behavior and social network
 data, to surface content most likely to be relevant to a user. You’ll work with IBM Watson and IBM Cloud to
@@ -168,21 +172,21 @@ build and deploy the recommendation to a front-end application.
 
 [Project: Using Spark to Predict Churn with Insight Data Science](https://github.com/nongnoochr/udacity_dsnd_capstone_sparkify)*
 
-#### Spark Project: Sparkify
+#### Spark Project: Sparkify (Details from Udacity)
 
 ##### What will I learn?
+
 You'll learn how to manipulate large and realistic datasets with Spark to engineer relevant features for predicting churn. You'll learn how to use Spark MLlib to build machine learning models with large datasets, far beyond what could be done with non-distributed technologies like scikit-learn.
 
 ##### Career Relevance
+
 Predicting churn rates is a challenging and common problem that data scientists and analysts regularly encounter in any customer-facing business. Additionally, the ability to efficiently manipulate large datasets with Spark is one of the highest-demand skills in the field of data.
 
 ##### Essential Skills
+
 * Load large datasets into Spark and manipulate them using Spark SQL and Spark Dataframes
 * Use the machine learning APIs within Spark ML to build and tune models
 * Integrate the skills you've learned in the Spark course and the Data Scientist Nanodegree program
-
-
-
 
 ##### Notes:
 
@@ -190,6 +194,6 @@ Predicting churn rates is a challenging and common problem that data scientists 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Data set used in this project was downloaded from the  ***[Data Scientist Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025)*** and must give credit to Udacity for the data and project contents.
+Data set used in this project was downloaded from the  ***[Data Scientist Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025)*** and must give credit to Udacity for the data and project setup contents.
 
 This project is [MIT licensed](./LICENSE).
