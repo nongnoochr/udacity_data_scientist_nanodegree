@@ -22,6 +22,8 @@ TBD
 
 ##### Project: Finding Donors for CharityML
 
+[Project1_Finding_Donor_For_CharityML](./Project1_Finding_Donor_For_CharityML)
+
 **Project Highlights** (From Udacity)
 
 This project is designed to get you acquainted with the many supervised learning algorithms available in sklearn, and to also provide for a method of evaluating just how each model works and performs on a certain type of data. It is important in machine learning to understand exactly when and where a certain algorithm should be used, and when one should be avoided.
