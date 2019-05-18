@@ -29,7 +29,7 @@ This project contains projects for the ***[Data Scientist Nanodegree Program](ht
 
 ### My enrollment period
 **Term1: MACHINE LEARNING FOR DATA SCIENTISTS**
-* August to December 2018
+* August 2018 to December 2018
 
 **Term2: APPLIED DATA SCIENCE**
 * December 2018 to May 2019
