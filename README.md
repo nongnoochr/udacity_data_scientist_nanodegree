@@ -27,6 +27,8 @@ This project contains projects for the ***[Data Scientist Nanodegree Program](ht
 
 ## Nanodegree Details<a name="nddetails"></a>
 
+See a syllabus of this Nanodegree program [here](./intro-to-machine-learning-nanodegree-program-syllabus.pdf)
+
 ### My enrollment period
 **Term1: MACHINE LEARNING FOR DATA SCIENTISTS**
 * August 2018 to December 2018
