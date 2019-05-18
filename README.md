@@ -28,8 +28,11 @@ This project contains projects that I worked on to complete the ***[Data Scienti
 ## Nanodegree Details<a name="nddetails"></a>
 
 ### My enrollment period
-Term1: MACHINE LEARNING FOR DATA SCIENTISTS
-Term2: APPLIED DATA SCIENCE
+**Term1: MACHINE LEARNING FOR DATA SCIENTISTS**
+* August to December 2018
+
+**Term2: APPLIED DATA SCIENCE**
+* December 2018 to May 2019
 
 ### Program Overview (From Udacity)
 The data science field is expected to continue growing rapidly over the next several years, and there’s huge demand for data scientists across industries. Data scientist is consistently rated as a top career.
@@ -187,6 +190,6 @@ Predicting churn rates is a challenging and common problem that data scientists 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Data set used in this project was downloaded from the  ***[Data Scientist Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025)*** and must give credit to Udacity for the data.
+Data set used in this project was downloaded from the  ***[Data Scientist Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025)*** and must give credit to Udacity for the data and project contents.
 
 This project is [MIT licensed](./LICENSE).
